@@ -1,0 +1,10 @@
+﻿References
+
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-debian/
+https://jira.mongodb.org/browse/SERVER-17742
+http://wiki.openstreetmap.org/wiki/Category:Keys
+http://docs.mongodb.org/manual/reference/operator/aggregation/
+http://www.openstreetmap.org/way/107669107
+http://www.openstreetmap.org/way/107669132
+http://www.openstreetmap.org/way/107669104#map=18/40.57521/-124.14759
+
